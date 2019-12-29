@@ -10,19 +10,11 @@ You can easily install package with::
 
     pip3 install pynetutils
 
-
 Command line tools:
 -------------------
+    * ranc -- netcat-like tool
+    * raxy -- simple tcp/udp proxy
+    * rapot -- fully async honeypot
+    * rascan -- port scanner
 
-    - **ranc** - netcat like tool
-    - **raxy** - simple tcp/udp proxy
-    - **rapot**
-        - systemd service available
-    - **rascan**
-        - UDP
-        - TCP
-        - SYN
-        - custom packet sending
 
-Customizable classes:
----------------------
