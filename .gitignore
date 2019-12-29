@@ -6,9 +6,9 @@ __pycache__/
 # C extensions
 *.so
 # Docs for now
-docs
 docs/
-spider1.jpg
+.idea
+
 
 # Distribution / packaging
 .Python

@@ -15,7 +15,7 @@ Command line tools:
 -------------------
     - **ranc** - netcat like tool
     - **raxy** - simple tcp/udp proxy
-    - **rapot** - pure python honeypot
+    - **rapot** - tcp honeypot
         * systemd service available
     - **rascan** - port scanner
         * UDP
