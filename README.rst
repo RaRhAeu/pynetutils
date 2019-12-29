@@ -16,8 +16,13 @@ Command line tools:
 
     - **ranc** - netcat like tool
     - **raxy** - simple tcp/udp proxy
-    - **rapot** - tcp honeypot
-    - **rascan** - port scanner
+    - **rapot**
+        - systemd service available
+    - **rascan**
+        - UDP
+        - TCP
+        - SYN
+        - custom packet sending
 
 Customizable classes:
 ---------------------
