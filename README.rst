@@ -13,15 +13,11 @@ You can easily install package with::
 
 Command line tools:
 -------------------
+
     - **ranc** - netcat like tool
     - **raxy** - simple tcp/udp proxy
     - **rapot** - tcp honeypot
-        * systemd service available
     - **rascan** - port scanner
-        * UDP
-        * TCP
-        * SYN
-        * custom packet sending
 
 Customizable classes:
 ---------------------
