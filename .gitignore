@@ -1,6 +1,2 @@
-venv
-docs/
-docs
 .idea/
-*__pychache__/*
-*.pyc
+venv/

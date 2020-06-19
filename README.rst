@@ -13,8 +13,7 @@ You can easily install package with::
 Command line tools:
 -------------------
     * ranc -- netcat-like tool
-    * raxy -- simple tcp/udp proxy
-    * rapot -- fully async honeypot
+    * raxy -- tcp/udp proxy
     * rascan -- port scanner
-
+    * rapot -- honeypot
 

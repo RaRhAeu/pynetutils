@@ -1,18 +1,12 @@
-from setuptools import setup
+from distutils.core import setup
 
 setup(
     name='pynetutils',
     version='1.0.0',
-    packages=['pynetutils'],
-    # TODO: Add scripts
-    scripts = ['bin/ranc',
-               'bin/raproxy',
-               'bin/rapot',
-               'bin/rascan'
-               ],
+    packages=[''],
     url='https://github.com/RaRhAeu/pynetutils',
     license='MIT',
     author='RaRhAeu',
     author_email='radzim_ko@wp.pl',
-    description='A small package with several network scripts'
+    description='"Small python package containing several network scripts'
 )
