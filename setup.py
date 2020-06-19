@@ -3,7 +3,8 @@ from distutils.core import setup
 setup(
     name='pynetutils',
     version='1.0.0',
-    packages=[''],
+    packages=['pynetutils'],
+    scripts=['/bin/ranc', 'bin/rascan', 'bin/raxy'],
     url='https://github.com/RaRhAeu/pynetutils',
     license='MIT',
     author='RaRhAeu',
